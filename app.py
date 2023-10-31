@@ -141,7 +141,7 @@ def footer():
         "Made in ",
         image('https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e181828ba9f9e92b6ebc6e7_RGB_Logomark_Color_Light_Bg.png',
               width=px(25), height=px(25)),
-        " by Anurag Parashar & Utkarsh Gupta",
+        " by Aayush Jha",
         br(),
         link("https://github.com/AnuragParashar2000/Movie-Review-Sentiment-Analysis", image('https://github.com/alooperalta/Fake-News-Detection-System/blob/main/gitLogo.png?raw=true',height="40px")),
     ]
